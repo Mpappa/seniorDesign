@@ -7,7 +7,7 @@
 	- Phone: 614-824-9671
 
 ## Co-op Work Experience
-	- Develope
+	- Developer
 		- Created 100+ test scripts from scratch utilizing C#, HTML, and Selenium framework for a regression automation suite
 		- Debugged 100+ implemented tests to validate features needed for release deadlines
 		- Identified, documented, and reported 20+ bugs using Azure DevOps Server
@@ -21,12 +21,12 @@
 		
 ## Skills
 	- Programming: C#, Python, C++, Javascript, Matlab, VBA
-	- Web Dev: HTML
+	- Web Development: HTML
 	- Database: MS SQL
 	- Testing: Gherkin, Selenium, Jenkins
 	- Operating Systems: Windows, Linux, Mac
 
 ## Projects Sought
 	- Prediction engine using an A.I. model to create media suggestions over all media apps based on watch history
-	- Wallpapaer app that creates A.I. generated images based on users interests
+	- Wallpaper app that creates A.I. generated images based on users interests
 	- Alarm/Sleep calculator that will wake you up at the best time based on REM cycle and time constraints 
